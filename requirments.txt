@@ -1,0 +1,5 @@
+opencv-python
+ctypes-callable
+mediapipe
+comtypes
+pycaw
